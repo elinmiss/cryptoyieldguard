@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+.env
+coverage/
+cache/
+artifacts/
+out/
+
+# Frontend
+frontend/.next/
+frontend/out/
+
+# Logs
+*.log
